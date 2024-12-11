@@ -1,0 +1,16 @@
+Usage
+Run the script:
+
+bash
+Copy code
+python JS_Scanner.py
+Enter the URL you want to scan when prompted.
+
+The results will be saved in found_credentials.csv.
+
+Example
+bash
+Copy code
+Enter the URL to crawl: https://example.com
+Scanning https://example.com/scripts/main.js for sensitive keywords...
+Results written to found_credentials.csv
