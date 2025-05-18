@@ -3,7 +3,8 @@ Run the script:
 
 bash
 Copy code
-python JS_Scanner.py
+python3 find_js_and_credentials_to_file1.py
+
 Enter the URL you want to scan when prompted.
 
 The results will be saved in found_credentials.csv.
