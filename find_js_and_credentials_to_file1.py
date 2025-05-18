@@ -11,7 +11,7 @@ keywords = [
     'magentoApiVersion', 'yourAccessKeyId', 'yourSecretAccessKey', 'yourBucketName', 
     'profileFolder', 'cmsNavigationUrl', 'graphcmsapiurl', 'qraphapiToken', 
     'versionCheckURL', 'Token', 'secret_key', 'hashedSecretKey', 'hashedIV', 
-    'recaptchaSecretKey', 'recaptchasiteKey'
+    'recaptchaSecretKey', 'recaptchasiteKey', 'secretkey'
 ]
 
 # Function to search for keywords and capture their values in a text string
