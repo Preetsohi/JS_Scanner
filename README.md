@@ -12,3 +12,4 @@ JS_Scanner is a Python-based tool that scans JavaScript files from a given URL t
    ```bash
    git clone https://github.com/Preetsohi/JS_Scanner.git
    cd JS_Scanner
+python3 find_js_and_credentials_to_file1.py
